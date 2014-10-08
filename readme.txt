@@ -1,14 +1,12 @@
 === Plugin Name ===
-AA Counter
+AA Visitor Counter
 
-
-
-Tags:counter, country 
+Tags:counter, visitor country 
 Requires at least:4.0
 Tested up to:4.0
 Stable tag:aacounter
 License: GPL
-Contributors :A and A
+Contributors : A. Mahmud / A. Roy
 ==Description==
 
-put your widget on sidebar 
+This plugin is created for counting the real time visitors of your website. Specially we make this widget very easy to use. Just put it on your sidebar. It will show you real time visitors with name. One thing more, you can anytime reset your visitors.
