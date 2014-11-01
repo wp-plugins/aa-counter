@@ -12,9 +12,9 @@ It's a simple plugin to count your visitor according to your country.
 
 ==Description==
 
-<strong> How to use it </strong><
+<strong> How to use it </strong>
 
-First, install it <br/>
+First, install it and active it.
 Second, Place the widget on your sidebar.
 
 Yeah, that's all :)
