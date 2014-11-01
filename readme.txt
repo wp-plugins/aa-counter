@@ -14,8 +14,8 @@ It's a simple plugin to count your visitor according to your country.
 
 <strong> How to use it </strong>
 
-First, install it and active it.
-Second, Place the widget on your sidebar.
+1. Install it and active it. <br />
+2. Place the widget on your sidebar. <br />
 
 Yeah, that's all :)
 
