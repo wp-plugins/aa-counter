@@ -5,7 +5,7 @@
  * Plugin URI: http://wordpress.org/aaplayer
  * Description: AA is a free counter 
  * Version: 1.0
- * Author: A. Roy / A. Mahmud
+ * Author: aaextention
  * Author URI: http://webdesigncr3ator.com
  * Support Email : contactus.aa@gmail.com
  * License: GPL2
